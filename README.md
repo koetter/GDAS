@@ -5,6 +5,3 @@ Geospatial Data Abstraction Service
 This is a demo-projekt based on osgeo/gdal, with a Tornado Web Server on top, to serve GDAL and OGR functionality as a REST API.
 
 
-## CHANGELOG
-
-### 2021-01-25: Project created
